@@ -823,7 +823,7 @@ Opens a new window
 
 
 ```
-window.open("https://www.codewithharry.com");
+window.open("https://www.codewithsubham.com");
 ```
 
 
@@ -834,7 +834,7 @@ Prompts the user with a text and takes a value. Second parameter is the default 
 
 
 ```
-var name = prompt("What is your name?", "Harry");
+var name = prompt("What is your name?", "subham");
 ```
 
 
